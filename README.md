@@ -1,2 +1,2 @@
 # LULC_MSI_QCNN
-Land Cover Classification from Sentinel-2 Images with Quantum-Classical Convolutional Neural Networks (FQCNN and MQCNN)
+In this study, we seek to investigate how to analyze Sentinel-2 images for land cover classification with quantum computing. Two hybrid quantum-classical machine learning frameworks (FQCNN and MQCNN) are introduced in this paper. Both can efficiently extract features from multi-spectral images using quantum computing and handle multi-category classification tasks. We evaluated our models' validity using the LCZ42 dataset through the TensorFlow Quantum platform and the experimental results demonstrate proof of concept of implementing the CNN model in the quantum domain for land cover classification with multi-spectral images.
